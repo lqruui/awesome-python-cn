@@ -190,6 +190,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   SnowNLP：一个用来处理中文文本的库。[官网](https://github.com/isnowfy/snownlp)
 *   TextBlob：为进行普通自然语言处理任务提供一致的 API。[官网](http://textblob.readthedocs.org/en/latest/)
 *   TextGrocery：一简单高效的短文本分类工具，基于 LibLinear 和 Jieba。[官网](https://github.com/2shou/TextGrocery)
+*   (java写的，但可以用python调用<http://www.hankcs.com/nlp/python-calls-hanlp.html>)HanLP：汉语言处理包 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换[官网](https://github.com/hankcs/HanLP)
 
 ### 文档
 
